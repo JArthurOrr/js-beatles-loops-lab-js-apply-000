@@ -11,5 +11,5 @@ return Array;
 }
 
 function johnLennonFacts(){
-  var hippieFacts
+  var hippieFacts = [];
 }
