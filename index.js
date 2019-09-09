@@ -9,3 +9,7 @@ function theBeatlesPlay(musicians ){
 }
 return Array;
 }
+
+function johnLennonFacts(){
+  
+}
