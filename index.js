@@ -11,5 +11,5 @@ return Array;
 }
 
 function johnLennonFacts(){
-  var hippieFacts = ['', '', '', ''];
+  var hippieFacts = ['He was the last Beatle to learn to drive', '', '', ''];
 }
